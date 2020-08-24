@@ -12,9 +12,9 @@ Projeto desenvolvido para aprimorar conhecimentos em html, css e js, além de pr
 - UX Design, Usabilidade, Ui Design, Estilos de UI ✅.
 - Arquitetura da Informação ✅.
 - Adobe XD: Wireframe ✅.
-- Estilos, cores e tipografia.
-- Básico da Codificação
-- HTML e CSS Básico.
+- Estilos, cores e tipografia ✅.
+- Básico da Codificação ✅.
+- HTML e CSS Básico ✅.
 - Código do Projeto.
 - Responsividade
 - Jsvascript e Animações.
