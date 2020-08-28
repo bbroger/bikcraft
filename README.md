@@ -1,5 +1,5 @@
 # bikcraft
-Projeto desenvolvido para aprimorar conhecimentos em html, css e js, além de praticas de design UI/UX.
+Um site que oferece serviços para montagem de sua própria bicicleta
 
 🚴‍♀ <strong>Bikcraft:</strong> é um site que oferece serviços para montagem de sua própria bicicleta, além de ter seu diferencial nos produtos de qualidade e mão de obra.
 
